@@ -1,4 +1,4 @@
-package com.rivera.OAuth2Login.Config;
+package com.fuentes.OAuth2Login.Config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

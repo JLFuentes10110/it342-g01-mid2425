@@ -1,7 +1,7 @@
-package com.rivera.OAuth2Login.Controller;
+package com.fuentes.OAuth2Login.Controller;
 
 import com.google.api.services.people.v1.model.Person;
-import com.rivera.OAuth2Login.Service.GoogleContactsService;
+import com.fuentes.OAuth2Login.Service.GoogleContactsService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.oauth2.client.authentication.OAuth2AuthenticationToken;
 import org.springframework.web.bind.annotation.*;

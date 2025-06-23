@@ -1,4 +1,4 @@
-package com.rivera.OAuth2Login.Service;
+package com.fuentes.OAuth2Login.Service;
 
 import com.google.api.client.googleapis.auth.oauth2.GoogleCredential;
 import com.google.api.client.googleapis.javanet.GoogleNetHttpTransport;
